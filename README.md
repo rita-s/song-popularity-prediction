@@ -1,5 +1,12 @@
 # INM701-Introduction to Artificial Intelligence Coursework
 
+# 💌 Title 
+<img src="https://github.com/rita-s/INM701-Introduction-to-AI/.png" alt="Project Photo" title="Project Photo" width="30%">
+
+## Subtitle
+
+## 📝 Project Description
+
 Work that demonstrates a comprehensive
 knowledge of the subject area and addresses the assessment criteria in full. Work will show
 evidence of independent reading, thinking and analysis, or creative problem solving. The report
@@ -12,6 +19,8 @@ problem.
 at least two ways of analysing your problem data.
 3. Describe the systematic application of your chosen artificial intelligence methodology to
 the chosen problem (for example, data preparation, parameter tuning).
+
+### Storyline
 
 • Define the problem domain and dataset(s) (you are free to choose the domain and the
 dataset that you want to investigate).
@@ -41,6 +50,16 @@ errors, analyse how different parameters affect performance, try out different m
 variants).
 
 
+### Storyline 2
+How to make a good impression and secure your second date? Should you even try to do that? Maybe being sincere is the best strategy? What traits of yours will bring you success / failure?
+
+### To answer above questions, building an ETL pipeline is useful to make the data ready for the analysis.
+
+## 💼 Section / Report
+Extract - Original Data Sources:
+* XX (Amount of datasets) unrelated datasets from XX were used: “name" - both datasets were in CSV form
+* XX
+
 Your final report should cover each of the aspects above (and any other element of your work
 that you believe should be reported). Graphical illustration of your results is expected (perhaps
 training/testing error curves, confusion matrices, algorithm outputs, etc), as well as results.
@@ -61,25 +80,6 @@ You should present the results clearly and concisely and provide a discussion of
 with conclusions related to problem being addressed. The conclusions section might propose
 some further work based on the results of this coursework.
 
-
-# 💌 Title 
-<img src="https://github.com/rita-s/love-finder-/blob/master/images/project_photo.png" alt="Project Photo" title="Project Photo" width="30%">
-
-## Subtitle
-
-## 📝 Project Description
-### Storyline
-Text
-### Storyline 2
-How to make a good impression and secure your second date? Should you even try to do that? Maybe being sincere is the best strategy? What traits of yours will bring you success / failure?
-
-### To answer above questions, building an ETL pipeline is useful to make the data ready for the analysis.
-
-## 💼 Section
-Extract - Original Data Sources:
-* XX (Amount of datasets) unrelated datasets from XX were used: “name" - both datasets were in CSV form
-* XX
-
 Transform:
 * CSV files were cleaned and filtered to remove everything that is not relevant (e.g. data from earlier period than 2020, unnecessary columns, missing values etc.) by using Python and pandas
 * Beautiful Soup was used to perform webscrapping
@@ -87,7 +87,7 @@ Transform:
 Load:
 * Data was loaded into...
 * XX was chosen as the data is...
-<img src="https://github.com/rita-s/love-finder-/blob/master/images/2022-08-21.png" alt="Database Upload Photo" title="Database Upload Photo" width="50%">
+<img src="https://github.com/rita-s/INM701-Introduction-to-AI/.png" alt="Project Photo" title="Project Photo" width="30%">
 
 ## 📚 References:
 1. A
