@@ -51,9 +51,9 @@ variants).
 
 
 ### Storyline 2
-How to make a good impression and secure your second date? Should you even try to do that? Maybe being sincere is the best strategy? What traits of yours will bring you success / failure?
+Text
 
-### To answer above questions, building an ETL pipeline is useful to make the data ready for the analysis.
+### Storyline 3
 
 ## 💼 Section / Report
 Extract - Original Data Sources:
