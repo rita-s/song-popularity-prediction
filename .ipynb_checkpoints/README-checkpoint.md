@@ -1,5 +1,4 @@
 # INM701-Introduction to Artificial Intelligence Coursework
-# Music Mood Classification
 
 # Title 
 <img src="https://github.com/rita-s/INM701-Introduction-to-AI/.png" alt="Project Photo" title="Project Photo" width="30%">
@@ -7,21 +6,6 @@
 ## Subtitle
 
 ## 📝 Project Description
-
-Dataset: Spotify Music Dataset, containing features such as tempo, energy, danceability, valence, loudness, and instrumentalness, which can be used to categorise songs into different moods.
-
-Objective: To classify songs into various mood categories (e.g., Happy, Sad, Energetic, Calm) based on their musical features.
-
-Questions:
-Which features are most indicative of a song's mood?
-Can we accurately predict the mood of a song based on its Spotify features?
-
-Expected Outputs:
-A model that can classify songs into mood categories.
-Insights into the relationship between musical features and moods.
-
-
-
 
 Work that demonstrates a comprehensive
 knowledge of the subject area and addresses the assessment criteria in full. Work will show
