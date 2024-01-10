@@ -1,6 +1,6 @@
 # INM701-Introduction to Artificial Intelligence Coursework
 
-# 💌 Title 
+# Title 
 <img src="https://github.com/rita-s/INM701-Introduction-to-AI/.png" alt="Project Photo" title="Project Photo" width="30%">
 
 ## Subtitle
@@ -51,9 +51,9 @@ variants).
 
 
 ### Storyline 2
-How to make a good impression and secure your second date? Should you even try to do that? Maybe being sincere is the best strategy? What traits of yours will bring you success / failure?
+Text
 
-### To answer above questions, building an ETL pipeline is useful to make the data ready for the analysis.
+### Storyline 3
 
 ## 💼 Section / Report
 Extract - Original Data Sources:
@@ -81,8 +81,8 @@ with conclusions related to problem being addressed. The conclusions section mig
 some further work based on the results of this coursework.
 
 Transform:
-* CSV files were cleaned and filtered to remove everything that is not relevant (e.g. data from earlier period than 2020, unnecessary columns, missing values etc.) by using Python and pandas
-* Beautiful Soup was used to perform webscrapping
+* CSV files were cleaned and filtered
+* Beautiful Soup was used to perform webscrapping (if needed)
 
 Load:
 * Data was loaded into...
