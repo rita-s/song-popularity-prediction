@@ -1,5 +1,5 @@
 # INM701-Introduction to Artificial Intelligence Coursework
-# Music Mood Classification
+# Song Popularity Prediction
 
 # Title 
 <img src="https://github.com/rita-s/INM701-Introduction-to-AI/.png" alt="Project Photo" title="Project Photo" width="30%">
