@@ -36,7 +36,7 @@ The project follows a standard machine learning workflow:
 6. Evaluation: Comparng model accuracy, chosing best performing model.
 
 ## 📈 Results:
-The final Random Forest model achieves an accuracy of 70% in predicting song popularity from audio features.
+The final Random Forest model achieves an accuracy of 77% in predicting song popularity from audio features.
 
 ## 📚 References:
 1. Kaggle Dataset: https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks/data
