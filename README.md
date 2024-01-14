@@ -1,112 +1,45 @@
 # INM701-Introduction to Artificial Intelligence Coursework
-# Song Popularity Prediction
+# 🎺🪗🎸🎻 Song Popularity Prediction
 
-# Title 
-<img src="https://github.com/rita-s/INM701-Introduction-to-AI/.png" alt="Project Photo" title="Project Photo" width="30%">
+<img src="https://github.com/ulusberrin/INM701/blob/main/spotify.jpg" alt="Spotify Photo" title="Spotify Photo" width="30%">
 
-## Subtitle
+## 🎶 Project Description
 
-## 📝 Project Description
+This project applies machine learning techniques to predict the popularity of songs based on their features such as tempo, danceability, energy, acousticness, liveness, and valence. 
+This data enables building models to map audio attributes to popularity.
 
-Dataset: Spotify Music Dataset, containing features such as tempo, energy, danceability, valence, loudness, and instrumentalness, which can be used to categorise songs into different moods.
+## 🤔 Research Questions:
+What are the key factors that predict a song's popularity on Spotify?
+How do different acoustic features of a song (like danceability, energy, key, and loudness) correlate with its popularity?
+Does the popularity of an artist influence the popularity of their songs?
+Are there any temporary trends in song popularity?
 
-Objective: To classify songs into various mood categories (e.g., Happy, Sad, Energetic, Calm) based on their musical features.
+## 🎯 Objectives:
+The main objective is to accurately estimate the popularity of a song based on its audio features like tempo, danceability, etc.
+Additional objectives include:
+1. Understand the structure and quality of the data. Clean and preprocess the datasets for analysis.
+2. Create new features that help predict song popularity, such as extracting the year from the release date.
+3. Apply various machine learning models to predict song popularity.
+4. Evaluate the performance of different machine learning models and compare the results.
+5. Identify the most important features influencing song popularity.
 
-Questions:
-Which features are most indicative of a song's mood?
-Can we accurately predict the mood of a song based on its Spotify features?
+<img src="https://github.com/ulusberrin/INM701/blob/main/band.jpg" alt="Band Photo" title="Band Photo" width="30%">
 
-Expected Outputs:
-A model that can classify songs into mood categories.
-Insights into the relationship between musical features and moods.
+## ⚙️ Methodology
+The project follows a standard machine learning workflow:
 
+1. Data Loading
+2. Data Preprocessing: Fill missing values, handle outliers, normalising features.
+3. Exploratory Analysis: Understanding the data, feature distributions, correlations.
+4. Feature Selection: Choosing features to the popularity being the target variable.
+5. Model Training: Training models like linerar regression and random forest.
+6. Evaluation: Comparng model accuracy, chosing best performing model.
 
-
-
-Work that demonstrates a comprehensive
-knowledge of the subject area and addresses the assessment criteria in full. Work will show
-evidence of independent reading, thinking and analysis, or creative problem solving. The report
-will be well-constructed and demonstrate a professional approach to academic practice. It will
-be of a professional standard.
-
-1. Describe a machine learning problem and apply artificial intelligence techniques to that
-problem.
-2. Use AI techniques covered in the module to apply, compare, contrast and critically evaluate
-at least two ways of analysing your problem data.
-3. Describe the systematic application of your chosen artificial intelligence methodology to
-the chosen problem (for example, data preparation, parameter tuning).
-
-### Storyline
-
-• Define the problem domain and dataset(s) (you are free to choose the domain and the
-dataset that you want to investigate).
-• Define questions and analysis tasks (a brief overview of the domain, the questions that
-are being asked, a list of your objectives and the expected output(s) of your analysis).
-• Perform an initial investigation of the dataset and the characteristics of the data. Develop
-a plan as to how you might transform the data to make it useable.
-• Develop a plan as to which artificial intelligence techniques you might use and what sorts
-of potential observations these can lead to, and how you will evaluate these.
-• Use models taught in the module. You must use models taught in the module, these are:
-perceptron, decision trees, linear regression, support vector machines, random forest, knearest neighbour, naïve Bayes, neural networks as well as unsupervised techniques kmeans and GMM, and principal component analysis. Most supervised models have both
-classification and regression variants. You are encouraged to work with neural networks.
-An additional technique from outside the taught module content might be applied for
-comparison purposes, if this is done it should be clearly indicated and well justified.
-• Split your dataset (train/validate/test, some datasets come pre-split). If you have a holdout
-test set then you most likely don’t want to use this until the near the end of your work.
-• Perform the analysis. Get the data ready for analysis, carry out your analysis/modelling
-as needed, validate your results and communicate observations, iterating through this
-process. Analytical operations can include data processing to an extent that is needed
-(not all datasets are messy) to prepare a useful and robust dataset to work within, and data
-derivation (such as feature engineering).
-• You might establish a baseline result first, computing metrics on training and validation
-sets, analyse errors, work on succeeding iterations, and alternative models. (If initial
-baseline results are amazing and there are no errors is the problem too easy?)
-• Generally, be close to your data (visualise the dataset, collect summary statistics, look at
-errors, analyse how different parameters affect performance, try out different model
-variants).
-
-
-### Storyline 2
-Text
-
-### Storyline 3
-
-## 💼 Section / Report
-Extract - Original Data Sources:
-* XX (Amount of datasets) unrelated datasets from XX were used: “name" - both datasets were in CSV form
-* XX
-
-Your final report should cover each of the aspects above (and any other element of your work
-that you believe should be reported). Graphical illustration of your results is expected (perhaps
-training/testing error curves, confusion matrices, algorithm outputs, etc), as well as results.
-Figures and Tables should be numbered and described. Following the above analytical
-process, make sure that in your report you answer the following questions where appropriate
-(this is **not** a report structure):
-• What is your dataset, problem domain?
-• Is your model classification or regression?
-• Did you have any missing, corrupt or misleading data? If so, how did you cope it?
-• Have you omitted some data? If so, why?
-• Did you apply techniques to understand your dataset?
-• How did you encode the input variables?
-• What models did you use?
-• What are the criteria for selecting model performance evaluation tools?
-• What were your outputs?
-• Did you have any problems or difficulties working with the dataset?
-You should present the results clearly and concisely and provide a discussion of the results,
-with conclusions related to problem being addressed. The conclusions section might propose
-some further work based on the results of this coursework.
-
-Transform:
-* CSV files were cleaned and filtered
-* Beautiful Soup was used to perform webscrapping (if needed)
-
-Load:
-* Data was loaded into...
-* XX was chosen as the data is...
-<img src="https://github.com/rita-s/INM701-Introduction-to-AI/.png" alt="Project Photo" title="Project Photo" width="30%">
+## 📈 Results:
+The final Random Forest model achieves an accuracy of 70% in predicting song popularity from audio features.
 
 ## 📚 References:
-1. A
-2. B
-3. C
+1. Kaggle Dataset: https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks/data
+2. Photos: https://unsplash.com/
+
 
