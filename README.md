@@ -1,4 +1,3 @@
-# INM701-Introduction to Artificial Intelligence Coursework
 # 🎺🪗🎸🎻 Song Popularity Prediction
 
 <img src="https://github.com/ulusberrin/INM701/blob/main/spotify.jpg" alt="Spotify Photo" title="Spotify Photo" width="30%">
